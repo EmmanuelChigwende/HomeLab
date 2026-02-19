@@ -25,3 +25,14 @@ linux live server (old toshiba laptop)
 Clients
 windows 10 english virtual machine
 windows 10 german virtual machine 
+
+Network configs:
+Server IP Addressess
+windows server 2016 : 192.168.0.150
+windows server 2022 : 192.168.0.149
+linux live server : unallocated
+
+Client Ip Addressess
+windows 10 client german : 192.168.0.148
+windows 10 client german : 192.168.0.147
+
