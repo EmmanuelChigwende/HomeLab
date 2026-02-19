@@ -1,34 +1,53 @@
-🏠 Home Lab
+🏠 Home Lab  
+
 
 Goal:
-Simulate a small-to-medium enterprise environment to practice system administration, networking, and security concepts using Windows Server, Linux, Active Directory, and virtualization.
+Simulate a small-to-medium enterprise environment to practice system administration, networking, and security concepts using Windows Server, Linux, Active Directory, and virtualization.  
 
-🎯 Objectives
 
-This lab is designed to learn and simulate:
+🎯 Objectives  
 
-Active Directory deployment
 
-DNS & DHCP configuration
+This lab is designed to learn and simulate: 
 
-Group Policy management
 
-Virtual networking
+Active Directory deployment  
 
-Linux server administration
+ 
+DNS & DHCP configuration  
 
-Security hardening
 
-Monitoring & logging
+Group Policy management  
 
-💻 Lab Setup
-Servers
-Server	OS	Role / Notes	IP Address
-Server 1	Windows Server 2016 VM	Domain Controller, AD, DNS	192.168.0.150
-Server 2	Windows Server 2022 VM	DHCP, File Server, Additional AD Roles	192.168.0.149
-Server 3	Linux Live Server (Old Toshiba Laptop)	Linux services, Security testing	Unallocated
-Clients
-Client	OS	Language	IP Address
+
+Virtual networking  
+
+
+Linux server administration  
+
+
+Security hardening  
+
+
+Monitoring & logging  
+
+
+💻 Lab Setup  
+
+Servers  
+ 
+Server	OS	Role / Notes	IP Address  
+
+Server 1	Windows Server 2016 VM	Domain Controller, AD, DNS	192.168.0.150  
+
+Server 2	Windows Server 2022 VM	DHCP, File Server, Additional AD Roles	192.168.0.149  
+
+Server 3	Linux Live Server (Old Toshiba Laptop)	Linux services, Security testing	Unallocated  
+
+Clients  
+
+Client	OS	Language	IP Address  
+ 
 Client 1	Windows 10 VM	English	192.168.0.148
 Client 2	Windows 10 VM	German	192.168.0.147
 🌐 Network Configuration
